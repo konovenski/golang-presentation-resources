@@ -67,6 +67,7 @@ IDE list: GoLand, Visual Studio Code
 ## Другие ресурсы
 
 [Golang documentation](https://golang.org/doc/)
+
 [Чат глобального golang сообщества](https://invite.slack.golangbridge.org)
 
 ## Есть вопросы? Спроси!
