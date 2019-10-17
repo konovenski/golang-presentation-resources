@@ -31,6 +31,14 @@
 [Сравнение скорости golang с другими языками](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-python3.html) 
 (secs показывает количество секунд, за которое код на этом языке выполнил задачу. Наверху можно выбрать сравнение с другим языком)
 
+## Показательные проекты на golang
+[Kubernetes](https://github.com/kubernetes/kubernetes)
+[Docker](https://github.com/moby/moby) (Moby это новое название ядра Docker)
+[Minikube](https://github.com/kubernetes/minikube)
+[Prometheus](https://github.com/prometheus/prometheus)
+[CockroachDB](https://github.com/cockroachdb/cockroach)
+[Terraform](https://github.com/hashicorp/terraform)
+[Трендовые проекты на golang за месяц](https://github.com/trending/go?since=monthly)
 
 ## Установка:
 Official guide: [click](https://golang.org/doc/install)
