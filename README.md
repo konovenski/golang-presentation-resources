@@ -61,3 +61,6 @@ IDE list: GoLand, Visual Studio Code
 ## Другие ресурсы
 
 [Golang documentation](https://golang.org/doc/)
+
+## Есть вопросы? Спроси!
+https://vk.com/konovenski
